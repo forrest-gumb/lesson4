@@ -1,0 +1,28 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	display: inline;
+}
+.menu li {
+	 border-right: 1px solid #bbb;
+}
+li a {
+	display: inline-block;
+	color: navy;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: yellow;
+	color: black;
+}
+.menu {
+	float: left;
+	}
+.dropdown-content {
+	float: right;
+	margin-left:
+}
