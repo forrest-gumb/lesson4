@@ -1,3 +1,9 @@
+html {
+	background-color: black;
+	background-image: url('http://elitefon.ru/large/201211/17164.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
 * {
 	margin: 0;
 	padding: 0;
